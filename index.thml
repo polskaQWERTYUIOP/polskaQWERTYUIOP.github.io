@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dołącz do Discorda</title>
+  <style>
+    body{display:flex;align-items:center;justify-content:center;height:100vh;margin:0;font-family:Inter,Arial;background:#5865F2;color:#fff}
+    .box{text-align:center;padding:20px}
+    a.join{display:inline-block;background:#fff;color:#5865F2;padding:14px 28px;border-radius:12px;text-decoration:none;font-weight:700;font-size:18px}
+    h1{margin:0 0 12px 0}
+    p{margin:8px 0 0 0;opacity:0.95}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Dołącz do naszego Discorda</h1>
+    <p><a class="join" href="https://discord.gg/pNrHzkpwhB" target="_blank" rel="noopener noreferrer">Kliknij i dołącz</a></p>
+  </div>
+</body>
+</html>
+Add index.html
